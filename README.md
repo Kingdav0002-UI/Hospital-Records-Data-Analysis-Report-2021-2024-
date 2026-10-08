@@ -107,17 +107,17 @@ COUNTROWS('Hospita[admit date]l')
 
 The following power Bi visuals were utilized
 
- *KPI cards
+ * KPI cards
  
- *Clustered Bar Charts
+* Clustered Bar Charts
  
- *Clusterd Column Charts
+* Clusterd Column Charts
  
- *Donut Charts
+ * Donut Charts
  
- *Line Chart
+ * Line Chart
  
- *Slicers
+ * Slicers
 
 **Dashboard Development**
 
