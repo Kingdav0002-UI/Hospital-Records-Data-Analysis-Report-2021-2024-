@@ -373,7 +373,7 @@ The hospital should improve:
 - Treatment scheduling
 - Follow-up care
 
-## 4. Improve Patient Data Quality
+## 3. Improve Patient Data Quality
 
 The presence of invalid DOB and age records indicates the need for stronger data-entry validation.
 
@@ -385,19 +385,19 @@ The hospital should ensure that:
 - Age is automatically calculated from DOB.
 - Patient IDs remain unique.
 
-## 5. Monitor High-Cost Treatments
+## 4. Monitor High-Cost Treatments
 
 Treatments such as chemotherapy, radiation therapy, surgery, and dialysis should be monitored carefully because of their high average costs.
 
 Management can use regular cost analysis to identify unnecessary expenses and improve resource allocation.
 
-## 6. Maintain Adequate Medication Supply
+## 5. Maintain Adequate Medication Supply
 
 Medication is the most frequently used treatment in the dataset.
 
 The hospital should maintain appropriate medication inventory levels to prevent shortages while avoiding excessive stock that may expire.
 
-## 7. Use Data Dashboards for Continuous Monitoring
+## 6. Use Data Dashboards for Continuous Monitoring
 
 Hospital management should consider developing an interactive dashboard that tracks:
 
