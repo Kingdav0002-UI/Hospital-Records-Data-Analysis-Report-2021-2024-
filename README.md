@@ -121,10 +121,12 @@ The following power Bi visuals were utilized
 
 **Dashboard Development**
 
-The project consist of 3 Dashboard pages
+The project consist of 3 Dashboard pages titled:
 
 **Overview**
+
 **Patient & Medical**
+
 **Bill Analysis**
 
 # 4. Analysis & Findings
