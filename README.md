@@ -159,7 +159,7 @@ This indicates that the hospital serves a large proportion of mature and elderly
 
 ## 4.2 Medical Conditions
 
-The dataset contains **30 different medical conditions**.
+The dataset contains **29 different medical conditions**.
 
 The most frequently recorded conditions include:
 
