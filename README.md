@@ -107,18 +107,20 @@ COUNTROWS('Hospita[admit date]l')
 
 The following power Bi visuals were utilized
 
--KPI cards
--Clustered Bar Charts
--Clusterd Column Charts
--Donut Charts
--Line Chart
--Slicers
+ -KPI cards
+ -Clustered Bar Charts
+ -Clusterd Column Charts
+ -Donut Charts
+ -Line Chart
+ -Slicers
 
 **Dashboard Development**
+
 The project consist of 3 Dashboard pages
-** Overview **
-** Patient & Medical **
-** Bill Analysis **
+
+**Overview**
+**Patient & Medical**
+**Bill Analysis**
 
 # 4. Analysis & Findings
 
