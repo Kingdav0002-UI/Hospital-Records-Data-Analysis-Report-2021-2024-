@@ -84,7 +84,7 @@ The analysis was carried out using the following steps:
    - instead of deleting the records, i flagged them as "Invalid DOB" and excluded them from age related analysis
    - Rows affected = 13 rows affected
   
-   - ** 3 more columns where added in the dataset which are
+   **3 more columns where added in the dataset which are :**
    * Lenght of stay
    * Age at admisssion
    * Age group
