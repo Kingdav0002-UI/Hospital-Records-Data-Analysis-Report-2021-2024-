@@ -54,18 +54,19 @@ The analysis was carried out using the following steps:
    - Checked for missing values
    - Checked for incorrect data types
    - Checked for data errors
-
-
-   2. **Data cleaning/Preparation**
-   - **No duplicates Found**
+  
    
-   - **Missing/Blank values**
+ 2. **Data cleaning/Preparation**
+
+     **No duplicates Found**
+   
+     **Missing/Blank values**
    - Checked important columns such as Patient ID, Medical Condition, Admit Date, Discharge Date, and Bill Amount for missing values, No missing value found
    
-   - **Incorrect data types**
+     **Incorrect data types**
    -  Converted admission, Date of birth, and discharge dates column into date formats, from MM/D/YY to D/MM/YY
    
-   - **Age calculation**
+   **Age calculation**
    -  Calculated Age at Admission using DOB and Admit Date and created a new column (Age at admission)
    -  Created age groups column for easier analysis with the name (Age group):
     * Early Childhood(0-4)
