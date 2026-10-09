@@ -68,7 +68,8 @@ The analysis was carried out using the following steps:
    
    **Age calculation**
    -  Calculated Age at Admission using DOB and Admit Date and created a new column (Age at admission)
-   -  Created age groups column for easier analysis with the name (Age group):
+   
+   -  Created age groups column for easier analysis with the name (Age group) the foolwing below are the age groups:
 
    * Early Childhood(0-4)
    
