@@ -70,15 +70,15 @@ The analysis was carried out using the following steps:
    -  Calculated Age at Admission using DOB and Admit Date and created a new column (Age at admission)
    -  Created age groups column for easier analysis with the name (Age group):
 
-   *Early Childhood(0-4)
+   * Early Childhood(0-4)
    
-   *Children & Adolescents(5-17)
+   * Children & Adolescents(5-17)
    
-   *Young Adults(18-24)
+   * Young Adults(18-24)
    
-   *Adults(25-59)
+   * Adults(25-59)
    
-   *Older Adults(60+)
+   * Older Adults(60+)
   
    **length of stay calculation**
    - Calculated the length of stay using discharge date minus admitted date and created a new column(Length of Stay)
