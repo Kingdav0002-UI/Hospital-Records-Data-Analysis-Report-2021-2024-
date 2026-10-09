@@ -71,9 +71,13 @@ The analysis was carried out using the following steps:
    -  Created age groups column for easier analysis with the name (Age group):
 
    *Early Childhood(0-4)
+   
    *Children & Adolescents(5-17)
+   
    *Young Adults(18-24)
+   
    *Adults(25-59)
+   
    *Older Adults(60+)
   
    **length of stay calculation**
